@@ -4,3 +4,28 @@
     margin-right: auto;
     text-align: center;
 }
+
+.searchBox {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-color: rgba(223,225,229,0);
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}
+.searchBoxDiv {
+    background: #fff;
+    display: flex;
+    border-radius: 8px;
+    border: 1px solid #dfe1e5;
+        border-top-color: rgb(223, 225, 229);
+        border-right-color: rgb(223, 225, 229);
+        border-bottom-color: rgb(223, 225, 229);
+        border-left-color: rgb(223, 225, 229);
+    box-shadow: none;
+    border-radius: 24px;
+        border-bottom-right-radius: 24px;
+        border-bottom-left-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: 482px;
+}
