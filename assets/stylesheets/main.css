@@ -5,7 +5,7 @@
     text-align: center;
 }
 
-.searchBox {
+.searchBox .searchBoxDiv{
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     border-color: rgba(223,225,229,0);
